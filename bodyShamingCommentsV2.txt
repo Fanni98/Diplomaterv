@@ -1,0 +1,331 @@
+comment	label
+nagyon jól áll neked ez a ruha, igazán elegáns!	non-toxic
+ez a frizura zseniális, tökéletes választás volt!	non-toxic
+mindig csodálom, milyen stílusosan tudsz öltözködni!	non-toxic
+ez a szín nagyon jól illik hozzád, kiemeli a vonásaidat!	non-toxic
+gyönyörű a mosolyod ezen a képen, nagyon természetes!	non-toxic
+ez a smink elképesztően jól sikerült, nagyon profi munka!	non-toxic
+annyira jól áll neked ez a kalap, nagyon különleges!	non-toxic
+ez a fotó igazán kiemeli a szépségedet, lenyűgöző!	non-toxic
+ez az outfit igazán menő, remekül passzol hozzád!	non-toxic
+ez a nyaklánc tökéletes választás volt, nagyon illik hozzád!	non-toxic
+nagyon különleges ez a kép, remek stílusérzékről árulkodik!	non-toxic
+ez az öv szuper jól mutat rajtad, nagyszerű kiegészítő!	non-toxic
+nagyon szép a bőröd ezen a fotón, természetes ragyogás!	non-toxic
+ez az ékszerkollekció fantasztikusan áll rajtad!	non-toxic
+ez a napszemüveg nagyon jól áll, igazán trendi!	non-toxic
+ez a cipő szuper választás volt, remekül passzol az outfitedhez!	non-toxic
+ez a ruha egyszerűen tökéletes rajtad, fantasztikusan nézel ki!	non-toxic
+ez a kabát remekül mutat, nagyon jól választottál!	non-toxic
+nagyon tetszik ez a fotó, gyönyörűek a színek és te is!	non-toxic
+ez a karkötő fantasztikusan néz ki rajtad, nagyon különleges!	non-toxic
+nagyon tetszik ez a laza, mégis elegáns stílus, szuperül áll neked!	non-toxic
+ez a kép igazán megmutatja a karizmatikus oldaladat, szuper!	non-toxic
+nagyon szép ez az összhatás, amit a sminkkel elértél!	non-toxic
+ez a ruha és a cipő kombinációja tökéletes, remek stílusérzék!	non-toxic
+ez az arckifejezés nagyon megkapó, igazán természetes és szép!	non-toxic
+nagyon tetszik, hogy mindig ilyen stílusos és magabiztos vagy!	non-toxic
+ez a kalap igazán különleges és remekül áll neked!	non-toxic
+nagyon jól választasz kiegészítőket, minden tökéletes összhangban van!	non-toxic
+ez a táska szuperül kiegészíti az outfitedet, nagyon elegáns!	non-toxic
+ez a fotó igazán profi, nagyon jól mutatsz rajta!	non-toxic
+ez a színkombináció egyszerűen fantasztikus, szuperül passzol hozzád!	non-toxic
+nagyon jól áll neked ez a szoknya, nagyon nőies!	non-toxic
+ez az öltöny fantasztikusan áll, igazán elegáns vagy!	non-toxic
+ez a kabát szuper, nagyon különleges választás!	non-toxic
+nagyon jól áll neked ez az elegáns ruha, csodaszép vagy!	non-toxic
+ez a sportos szett remekül passzol hozzád, nagyon laza és menő!	non-toxic
+nagyon tetszik ez a vintage stílus, igazán jól áll neked!	non-toxic
+ez a hajszín fantasztikus, nagyon jól kiemeli az arcodat!	non-toxic
+ez a ruha nagyon különleges, igazán kiemeli az egyedi stílusod!	non-toxic
+nagyon jól áll neked ez a laza, hétköznapi szett, nagyon természetes!	non-toxic
+ez a frizura igazán különleges, nagyon jól áll neked!	non-toxic
+ez a fotó remekül kiemeli az eleganciádat, gyönyörű vagy!	non-toxic
+ez a szett tökéletes, nagyon jól mutatsz benne!	non-toxic
+nagyon szép az összhatás ezen a képen, nagyon tetszik!	non-toxic
+ez a stílus igazán egyedi és nagyon jól passzol hozzád!	non-toxic
+nagyon jól áll neked ez az elegáns kabát, szuper választás!	non-toxic
+ez a smink igazán kiemeli a szemeidet, gyönyörű vagy!	non-toxic
+nagyon jól nézel ki ebben a fotósorozatban, fantasztikus!	non-toxic
+ez a hajfonat nagyon különleges és remekül áll neked!	non-toxic
+nagyon jó érzéked van a divathoz, minden szuperül áll neked!	non-toxic
+nem hiszem el, hogy így mersz megjelenni, ennyi súlyfelesleggel inkább takarhatnád magad, nem?	fat
+erre a plusz súlyra nem lennék büszke	fat
+ez a ruhadarab talán jobban állna valakin, akinek nincs ekkora súlyfeleslege… csak mondom.	fat
+jó dolog az önbizalom, de ne csodálkozz, ha másokat nem érdekel, hogy te elfogadod-e a súlyfelesleged.	fat
+talán ideje lenne fogyni, megszabadulni attól a sok plusz kilótól.	fat
+fogynod kellene, ha tovább akarsz élni mint 30	fat
+nem mindenki született vékonynak, de ez már túlmegy a természetes határon. talán egy kicsit dolgozhatnál ezen.	skinny
+vicces, hogy próbálsz nagyobbnak tűnni, de ez a magasság tényleg nem segít rajtad. talán el kéne fogadnod, hogy ez sosem lesz elég.	height
+az a gond, hogy még egy létrával se látnál ki a tömegből. talán jobb lenne, ha nem próbálnál meg érvényesülni, ha egyszer ennyire alacsony vagy.	height
+egyszerűen nem értem, hogy miért próbálsz kitűnni ilyen testalkattal. nem igazán lehet komolyan venni valakit, aki ilyen apró.	height
+komolyan, így akarsz emberek közé menni? olyan vagy, mint egy óriás, ez nem túl vonzó.	height
+nem túl előnyös, hogy mindenkinek a fejére nézel. talán ne próbáld meg még jobban kihangsúlyozni ezt a magasságot.	height
+nagyon feltűnő, és őszintén szólva kicsit zavaró is, hogy ilyen magas vagy.	height
+már bocsánat, de ez a magasság elég félelmetes. kicsit furcsán hat, amikor valaki ennyire kirívóan magas.	height
+komolyan ilyen alacsonyan szeretnél labdába rúgni? ez elég reménytelenül fest innen nézve.	height
+ha ennyire pici vagy, talán meg kéne próbálnod valami mást, ahol nem számít a magasság. itt nem sok esélyed van érvényesülni.	height
+alacsony embereknek nem biztos, hogy ez az a hely, ahol meg kéne próbálkozni. olyan furcsán fest ez a méret.	height
+nem mindenki örül annak, hogy valaki ilyen nagyra nőtt. kicsit félelmetes ez a magasság, hogy őszinte legyek.	height
+elhiszem, hogy próbálsz beilleszkedni, de ennyire magas emberekkel nehéz barátkozni. kitörik a nyakuk ettől a magasságtól.	height
+talán ha kicsit alacsonyabb lennél, jobban illeszkednél ide.	height
+nagyon bátor vagy, hogy ilyen alacsonyan is kiállsz a véleményedért. de lehet, hogy nem mindenki vesz komolyan egy ilyen méret mellett.	height
+nem biztos, hogy jó ötlet ennyire hangsúlyozni ezt a magasságot. néha kicsit nyomasztó lehet mások számára.	height
+hogy lehet, hogy nem távolítod el a testszőrzeted? ez egy kicsit elavult, nem gondolod?	bodyhair
+kár, hogy nem érdekel téged a megjelenésed ez a szőrzet nem néz ki jól, amikor a nyár jön.	bodyhair
+miért nem borotválod le a lábad? tényleg ennyire nem érdekel a külsőd?	bodyhair
+hogy lehet, hogy nem borotválod a lábad? ez tényleg undorító.	bodyhair
+komolyan, ki gondolja, hogy ez így rendben van? olyan, mintha egy barlangi ember lennél.	bodyhair
+bátor dolog tőled, hogy nem borotválkozol, de ez egy kicsit sok. ki akar így kinézni?	bodyhair
+lehet, hogy neked ez természetes, de a legtöbb ember nem szeretné ezt látni.	bodyhair
+miért nem borotválod a hónaljad?	bodyhair
+az a lábszőr, amit hordasz, olyan, mintha egy állat lennél. nehezen tudom elhinni, hogy ezt nem érzed.	bodyhair
+tehát még mindig nem próbáltál lefogyni? a hájas kinézeted nem túl vonzó.	fat
+ahol te mész, ott biztos mindig lesz elég hely, mert olyan elhízott vagy.	fat
+az dagadékok nem érthetik meg az egészséges életmódot.	fat
+szerintem nem lenne nehéz kicsit jobban odafigyelni az étkezésedre, ha nem akarsz dagi maradni.	fat
+Súlyos egyéniség lehetsz	fat
+a dagi emberek sportot űznek az evésből.	fat
+még a légzőgyakorlatok is nehezen mennek neked te dagadék.	fat
+hát te nagyon dagi vagy.	fat
+enyi plusz kilóval elhiszem, hogy nehéz a mozgás.	fat
+nagydarab emberek nem igazán tudják, mi a szép.	fat
+hájas kinézeted van, ez így nem maradhat sokáig, nem gondolsz az egészségedre.	fat
+a dagadt emberek csak akadályozzák a körülöttük lévőket.	fat
+képzeld el, hogy dagi vagy, és még mindig nem akarsz változtatni!	fat
+dagi és nem hajlandó diétázni? ez vicces!	fat
+túlsúlyos vagy, és ez senkit sem érdekel a környezetedben.	fat
+az olyan nagydarab emberek, mint te, sosem érthetnek meg minket.	fat
+miért vagy olyan dagi? nem tudod, hogy ez nem vonzó?	fat
+mi van hájpacni fáj az igazság?	fat
+de nagy tehén vagy	fat
+az elhízott barátnőd csak rontja az összképet.	fat
+disznónak nézel ki, és ezt nem tudod tagadni.	fat
+az elhízott megjelenésed nem a legjobb.	fat
+a dagadék élete nem lehet túl érdekes, ha minden nap a hűtőhöz mész.	fat
+a duci kinézeted miatt senki sem akar veled bulizni.	fat
+a dagik nem tudják megérteni a diéta lényegét.	fat
+a hájas kinézeted nem segít az önbizalmadon.	fat
+elhízott vagy, és ez nem lehet ok a büszkeségre.	fat
+Olyan vékony vagy, hogy ha megfúj a szél, elrepülsz!	skinny
+Nem gondolod, hogy ideje lenne egy rendes étkezésnek? Csak csont és bőr vagy!	skinny
+Annyira sovány vagy, hogy még a ruha sem áll jól rajtad.	skinny
+Csak egy jó hamburgerre lenne szükséged, hogy eltűnjön ez a soványság.	skinny
+Ha még fogysz, már csak árnyék leszel!	skinny
+Nem hiszem el, hogy így mersz kinézni – mintha éheztetnének!	skinny
+Olyan vékonyak a lábaid, mintha mindjárt eltörnének.	skinny
+Nem zavar, hogy csak csont és bőr vagy?	skinny
+Csak egy kis szél, és máris felborulsz.	skinny
+Nem akarsz kicsit izmosabb lenni? Már tényleg csak csont vagy.	skinny
+már megint olyan vékony vagy, hogy alig látlak a fényképen!	skinny
+a sovány lányok nem tudják, mi az igazi élvezet az étkezésben.	skinny
+te nyeszlett! miért nem eszel már végre valamit?	skinny
+gebe vagy, és ez nem egészséges.	skinny
+te egy két lábon járó csontkollekció vagy 	skinny
+a vézna kinézeted nem tűnik túl vonzónak.	skinny
+vézna vagy, mintha csak egy erős szél fújna, és elrepítene!	skinny
+csont és bőr, még a szél is könnyedén felkap!	skinny
+satnya vagy, de úgy tűnik, nem is érdekel.	skinny
+a csontos lábaid már olyan vékonyak, hogy szinte eltűnsz!	skinny
+gizda vagy, és ez nem a legjobb reklám a divatipar számára.	skinny
+girnyó lettél, nem csodálkozom, hogy senki sem hív el bulikba.	skinny
+csenevész vagy, és nem is tudod, milyen jó érzés jól lakni.	skinny
+mikor fogsz végre egy kis súlyt felszedni? annyira vékony vagy!	skinny
+ha nyúlánk maradsz, lehet, hogy el kell kezdened edzeni!	skinny
+nézd meg, mennyire sovány lettél! ez már nem is normális.	skinny
+te tényleg sovány vagy! kíváncsi vagyok, mikor fogsz már enni valamit.	skinny
+a nyeszlett testalkatod nem tűnik túl egészségesnek.	skinny
+gebe lettél, talán egy kis edzés nem ártana!	skinny
+vézna vagy, és úgy tűnik, ez sosem zavar!	skinny
+cingár! még a szél is elfújna!	skinny
+csont és bőr, nem csodálkozom, hogy nem tudsz erős lenni!	skinny
+satnya vagy, az étkezéseid nem tűnnek túl változatosnak.	skinny
+csontos kezeid vannak, nem csodálom, hogy senki sem akar veled táncolni!	skinny
+gizda vagy, miért nem kezdesz el edzeni, hogy egy kicsit erősebb legyél?	skinny
+a girnyó megjelenésed senkit sem vonz.	skinny
+csenevész testalkat, miért nem próbálsz meg valamit enni?	skinny
+a nyúlánk kinézeted nem segít az önbizalmadon.	skinny
+soványan nem nézel ki jól, talán ideje lenne kicsit hízni!	skinny
+hogy nézel ki? csak egy cingár árnyék vagy!	skinny
+a pocakod miatt úgy nézel ki, mint egy golyó!	fat
+pocak kapitány	fat
+mikor fogsz végre felnőni? alig látlak a többi ember mögött!	height
+Hát, úgy tűnik, a magasságot nem osztogatták túl bőkezűen.	height
+Csak én érzem úgy, hogy kicsit magasabban kéne lenned?	height
+Te vagy a tömegben az, akit sose nehéz megtalálni... ott legalul.	height
+A fejed mindig kilóg a tömegből.	height
+A lépcsők biztos a legjobb barátaid!	height
+Szóval te vagy az, aki mindig elöl áll a fotókon, ugye?	height
+Kéne egy kis plusz láthatóság, hogy észrevegyenek!	height
+Hát, nem a kilátás miatt irigyelnének.	height
+Azért biztos nehéz lehet minden polcot elérni ha ilyen alacsony vagy...	height
+Hogy látsz bármit a hátsó sorból?	height
+Az óriások világában biztos népszerű lennél!	height
+Elképzelni sem tudom, milyen lehet óriásként állandóan lehajolni mindenhez!	height
+tényleg úgy nézel ki, mint egy hús golyó!	fat
+csont és bőr! alig látszol ki a kabátod alól!	skinny
+olyan vagy mint egy csontváz	skinny
+mikor kezdesz el végre enni? a karjaid olyan vékonyak, mint egy fogpiszkáló!	skinny
+nem gondoltad, hogy talán jobb lenne, ha egy kicsit hízol?	skinny
+néha úgy érzem, hogy el fogsz fújni, olyan vékony vagy!	skinny
+girnyónak tűnsz, nem tudom, mit keresel az edzőteremben!	skinny
+képzeld el, hogy a karjaid a szélben lengetve néznek ki!	skinny
+túlságosan vékony vagy, ez már kicsit ijesztő!	skinny
+alig látszol a fényképen, mert a hasad takarja a fejed!	fat
+Szó szerint eltűnsz a tömegben, olyan alacsony vagy.	height
+Látlak egyáltalán? Olyan, mintha nem is lennél itt!	height
+Veled beszélgetve mindig le kell hajolnom, mintha gyerek lennél.	height
+Nem gondolod, hogy ilyen magassággal inkább magas sarkút kéne hordanod?	height
+Hoppá, elnézést, majdnem átléptem rajtad!	height
+Egyszer majd kinősz ebből... vagy nem?	height
+Mindig nehéz észrevenni téged, olyan, mintha összezsugorodtál volna.	height
+Kisegítelek a polcnál? Eléred egyáltalán?	height
+Melletted tényleg úgy érzem magam, mintha óriás lennék.	height
+Nem félsz, hogy eltévedsz ilyen magasságban?	height
+Mi újság ott fenn, zsiráf?	height
+Olyan vagy, mint egy zsiráf – mindenhova kilógsz!	height
+Nem félsz, hogy bevered a fejed minden ajtóban, te óriás?	height
+Melletted úgy érzem magam, mint egy hobbit!	height
+Te vagy az első, akit bárhonnan meglátni... nem nehéz észrevenni a zsiráfokat.	height
+Lehet, hogy egy kicsit vissza kéne venni a magasságból, zsiráf!	height
+Olyan vagy, mint egy emberi világítótorony – túl magas és feltűnő!	height
+Zsiráf, biztos kapsz elegendő oxigént ott fönt?	height
+Mikor jön a következő kosármeccsed, zsiráf?	height
+Lassan kéne egy külön buszjegy, akkora vagy, mint egy zsiráf!	height
+már régóta nem borotváltál? úgy nézel ki, mint egy majom!	bodyhair
+Miért próbálsz szakállat növeszteni, ha alig van mit mutatni?	bodyhair
+Inkább borotváld le azt a foltos borostát, jobban néznél ki nélküle.	bodyhair
+Ez most szakáll vagy csak pár kósza szőrszál?	bodyhair
+Próbáltál már valamit kezdeni ezzel a 'szakállal'? Olyan ritkás.	bodyhair
+Miért van az, hogy ennyire nem nő szakállad? Eléggé furán néz ki.	bodyhair
+Ez komolyan a legjobb, amit szakállnövesztésben el tudsz érni?	bodyhair
+Ha csak ennyire tudsz szakállat növeszteni, talán jobb lenne simán borotváltan.	bodyhair
+Azt hittem, hogy ez csak pár napos borosta, de tényleg ennyi az egész szakállad?	bodyhair
+Ez a 'szakáll' inkább csak pár gyenge pihének tűnik.	bodyhair
+A foltos arcszőrzet valahogy nem túl meggyőző… talán próbálj ki valami mást.	bodyhair
+Inkább hagyd el ezt a szakállpróbálkozást, így csak kicsit komolytalanul nézel ki.	bodyhair
+Ez a szakáll inkább fiús, mint férfias – talán még nem vagy 'készen' egy igazi szakállra.	bodyhair
+Csak itt-ott nő pár szál? Talán a szakáll nem mindenkinek való.	bodyhair
+Ez a szakáll olyan, mintha félúton meggondolta volna magát.	bodyhair
+Próbálsz férfiasnak tűnni ezzel, de ezzel a ritka szakállal nem igazán jön össze.	bodyhair
+Mintha csak helyenként nőne a szőr az arcodon. Nem gondoltál arra, hogy ezt egyszerűbb lenne leszedni?	bodyhair
+Ez a szakállpróbálkozás olyan, mintha még mindig serdülsz.	bodyhair
+Csak vigyázz le ne szakadjon a pad a súlyod alatt!	fat
+Le folysz a padról te dagadék	fat
+Anyám jó hogy meg maradt az a loca jó hogy nem szakadt be	fat
+Disznó vagy fúj	fat
+Ez a ruhadarab talán jobban állna valakin, akinek nincs ilyen nagy súlyfeleslege… csak mondom.	fat
+Még a légzőgyakorlatok is nehezen mennek az elhízott testalkatoddal.	fat
+partra vetett bálna	fat
+Bálna a vízben	fat
+Fürdik a malac	fat
+Malac fejed van	fat
+Olyan a tokád mint egy disznónak	fat
+Toka az egész feje	fat
+Toka Hontas	fat
+Egy bálna ki vetődött a szigetre	fat
+miért olyan lapos hol vannak a mellei talán befelé nőnek	skinny
+Alultápláltsági verseny	skinny
+Kiez a gebe?	skinny
+Amilyen kis girnyó, ezt is felesleges megtennie.Se tehetség, se küllem.Bukta.	skinny
+Remélem ma nem mentek suliba mert nagyon fúj a szél.	skinny
+egy szál bél vagy	skinny
+lapos vagy mint egy deszka	skinny
+Egyél már valamit, nehogy elfújjon a szél!	skinny
+Olyan vékony vagy, hogy eltűnsz a háttérben!	skinny
+Miért vagy ilyen csontos? Nem egészséges így kinézni.	skinny
+Úgy nézel ki, mintha egy falatot sem ettél volna egész héten.	skinny
+Te tényleg eszel egyáltalán valamit, vagy csak levegőt eszel?	skinny
+Ennyire vékonynak lenni nem vonzó. Próbálj meg végre felszedni pár kilót.	skinny
+A lábaid úgy néznek ki, mint a fogpiszkálók.	skinny
+Olyan vagy, mint egy fogas, alig van rajtad valami.	skinny
+Gondolom, nálad nem opció a legfelső polcra pakolás.	height
+csalódás, egy kicsit magasabbnak hittelek.	height
+Te törpe inkább állnál sámlira	height
+A kilátás biztos más perspektívát ad.	height
+Nem könnyű, amikor minden ajtónyílás egy kihívás, igaz?	height
+Tudod, vannak, akikért nem kell lehajolni, hogy beszélgessünk.	height
+Gondolom, a legutolsó sor nem a te helyed moziban.	height
+Szerencsére nem kell annyira aggódnod a fejtér miatt.	height
+Nem lehet könnyű egy fejekkel teli világban navigálni.	height
+Ne haragudj, nem vettelek észre ott lent.	height
+Már megint előkerült ez a kis törpe.	height
+Gonosz kis törpe vagy, látszik a kisugárzásodból.	height
+Mindig olyan nehéz észrevenni téged a tömegben.	height
+Ó, egy kicsit fel kell nézni rád... ja nem, bocsánat, le kell nézni.	height
+Képzeld, most láttam egy miniatűr széket, pont neked való lenne!	height
+Nem gondolod, hogy ideje lenne megszabadulni attól a szőrmétől?	bodyhair
+Lehet, hogy eljött az ideje a gyantának – úgy nézel ki, mintha bundád lenne.	bodyhair
+Nem érzed magad kellemetlenül ennyi szőrrel a karodon?	bodyhair
+Lassan már borbélyhoz is mehetnél annyi szőr van rajtad!	bodyhair
+A lábadra nem gondoltál egy borotvát használni? Téli bundának néz ki.	bodyhair
+Az arcodon ez a szőr komoly? Talán ideje egy kis arctisztításnak.	bodyhair
+Úgy tűnik, elfelejtettél találkozni a borotváddal.	bodyhair
+Már vártam, hogy mikor látlak 'természetes' szőrzettel, de ez kicsit túlzás.	bodyhair
+A lábaid olyan szőrösek, hogy lassan már zoknira sincs szükséged!	bodyhair
+Azért ez a szőr a hasadon elég feltűnő... nem gondoltál még rá, hogy megszabadulj tőle?	bodyhair
+Úgy nézel ki, mintha épp egy erdőből jöttél volna ennyi szőrrel!	bodyhair
+Ha már bikiniszezon, talán ideje lenne letisztítani azt a szőrzetet.	bodyhair
+Lehet, hogy neked a borotva ismeretlen fogalom, de ennyi szőrrel? Komolyan?	bodyhair
+A lábadról azt hittem, hogy valami bundás nadrágot vettél fel...	bodyhair
+Szőrtelenítésről hallottál már? Hasznos lenne számodra!	bodyhair
+Az arcodon ez a kis bajusz már-már trendi, de lehet, hogy érdemes lenne megfontolni a gyantázást.	bodyhair
+A hátadon is ilyen sűrű a szőr? Ezen tényleg segíthetne egy kozmetikus!	bodyhair
+A lábszőr most komolyan divat lett? Elég furcsán mutat így a szoknyával.	bodyhair
+Nem gondolod, hogy szőrteleníteni kellene, ha már rövid ujjút hordasz?	bodyhair
+Miért döntöttél úgy, hogy megtartod a hónaljszőröd? Nem hiszem, hogy sokaknak tetszik.	bodyhair
+Elég vad kinézeted van ezzel a szőrös lábbal, nem gondolod?	bodyhair
+A természetesség jó dolog, de talán a hónaljad szőrtelenítése nem ártana.	bodyhair
+Nem lehet túl kellemes érzés ez a lábszőr, ráadásul nem is néz ki jól.	bodyhair
+Nem akarlak megbántani, de a szőrös hónalj egy kicsit ápolatlannak hat.	bodyhair
+Úgy néz ki a lábad, mintha évek óta nem találkozott volna borotvával.	bodyhair
+Őszintén szólva, a szőrös lábad elég szokatlan látvány, biztos, hogy így akarod hagyni?	bodyhair
+Miért növesztetted meg a lábszőröd? Olyan furán néz ki a szoknyáddal.	bodyhair
+Lehet, hogy ez most egy trend, de a hónaljszőr nem igazán áll jól.	bodyhair
+Tudom, hogy a természetesség menő, de szerintem egy kis borotva nem ártana.	bodyhair
+A hónaljszőröd eléggé feltűnő, biztos, hogy így akarod hagyni?	bodyhair
+Szerintem jobban mutatnál, ha megszabadulnál a lábszőrtől, ez így túl extrém.	bodyhair
+Szép a ruhád, de a szőrös láb nekem egy kicsit sok hozzá.	bodyhair
+Ez a hónaljszőr szerintem senkinek sem jön be igazán.	bodyhair
+Nem hiszem, hogy ez a 'szőrös' trend annyira jól állna bárkinek, bocsánat.	bodyhair
+Látszik, hogy egy ideje nem borotválkoztál, nem kellemetlen így?	bodyhair
+Valóban kényelmes neked így járkálni, hogy szőrös a lábad?	bodyhair
+Olyan sápadt vagy, mintha egész télen nem láttál volna napfényt.	skintone
+Miért nem próbálsz ki egy önbarnítót? Egy kis szín nem ártana.	skintone
+A bőrszíned annyira fakó, mintha beteg lennél.	skintone
+Nem értem, miért akarsz még sötétebb lenni – nem áll jól neked.	skintone
+Ezzel a bőrszínnel nem igazán tűnsz ki, olyan unalmasnak hat.	skintone
+Ez a szín sosem áll jól a te bőrtónusoddal, olyan sápadtnak tűnsz.	skintone
+Annyira fehér vagy, hogy szinte világítasz a sötétben.	skintone
+Miért nem próbálsz kicsit világosabb sminket? Ez a tónus nem passzol hozzád.	skintone
+Túl sötét a bőröd ehhez a stílushoz – olyan komornak tűnik tőle az arcod.	skintone
+Ezzel a bőrtónussal jobban el tudnád rejteni magad a háttérben	skintone
+Annyira sötét vagy, hogy nehéz észrevenni a mosolyodat.	skintone
+Ez a szín nem neked való, a bőröd miatt túl kontrasztos.	skintone
+Minek neked a napfény? Csak még sápadtabb leszel tőle.	skintone
+A te bőrszíneddel teljesen eltűnsz a háttérben, nem túl előnyös.	skintone
+Próbáltál már barnulni egy kicsit? Elég fakónak tűnsz.	skintone
+Az ilyen világos bőr nagyon érzékenynek tűnik – szinte porcelán vagy.	skintone
+Olyan vagy ezzel a bőrrel, mint egy kísértet, komolyan.	skintone
+A te bőrszíned sosem fog olyan jól mutatni élénk színekben.	skintone
+Nem értem, miért nem próbálkozol valami mással, ez a bőrszín nem előnyös neked.	skintone
+Annyira világos a bőröd, hogy egy nyaralás után is alig látszik változás.	skintone
+Te túl sötét vagy ahhoz, hogy itt megértsenek, nem gondolod?	skintone
+Ez a világos bőrtónus nem elég 'exotikus'.	skintone
+Nem tudnál elérni egy kicsit sötétebb tónust? Nem nézel ki túl egészségesen így.	skintone
+Ennek a rassznak minden tagja ilyen sötét?	skintone
+Ez a bőrtónus egyszerűen nem felel meg a szépségideáloknak.	skintone
+A világos bőr jobb lenne, könnyebb elfogadni.	skintone
+Miért nem próbálsz meg egy kis napozást? Olyan fakónak tűnsz.	skintone
+Te túl világos vagy ahhoz, hogy 'igazinak' tűnj ebből a kultúrából.	skintone
+Ez a sápadt bőr egyszerűen furán néz ki – mintha beteg lennél.	skintone
+Sötétebb bőrrel soha nem fogsz beilleszkedni ebbe a társaságba.	skintone
+Valószínűleg csak azért barnulsz le ennyire, hogy jobban illeszkedj a trendhez, igaz?	skintone
+Miért próbálod mindig fehéríteni a bőröd? Úgysem fogsz 'elegánsabban' kinézni.	skintone
+Túl sötét a bőröd ahhoz, hogy bármit viselj, ami színes.	skintone
+Miért nézel ki mindig úgy, mintha elkerült volna a nap?	skintone
+Nem tűnsz elég ‘valódinak’ ezzel a bőrszínnel. Ez nem passzol hozzád.	skintone
+Miért nem tudsz lefogyni? Ennyire lusta lennél?	fat
+A ruháid biztosan két mérettel nagyobbak, mint a normál embereké.	fat
+Nem csoda, hogy senki sem akar veled barátkozni, nézd meg magad!	fat
+Ha kicsit kevesebbet ennél, talán képes lennél normálisan kinézni.	fat
